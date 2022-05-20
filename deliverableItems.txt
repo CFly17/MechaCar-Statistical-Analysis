@@ -1,0 +1,37 @@
+
+REPO: 
+	-MechaCar dataset
+	-MechaCarChallenge.RScript
+	-Coil dataset
+
+Deliverable 1: 
+	Readme to include 
+	## Linear Regression to Predict MPG
+	--variables/coefficients w/ non-random variance to mpg?
+	--slope zero?
+	--predicts mpg of MechaCar prototypes?
+
+Deliverable 2: 
+	Readme to include
+	## Summary Statistics on Suspension Coils
+	--Design specs for MechaCar coils dictate that coil variance must not exceed 100lbs per square inch. 
+		Does manufacturing data meet this design spec in total/per lot? Why or why not?
+
+Deliverable 3: 
+	Readme to include
+	## T-Tests on Suspension Coils
+	--your interpretation and findings for the t-test results
+	--screenshots
+
+Deliverable 4: Write-up
+	Readme to include
+	## Study Design: MechaCar vs Competition
+	--description of stat study to quantify performance
+		--metrics?
+		--cost?
+		--city vs. highway mpg?
+		--maintenance?
+		--safety?
+	--null/alternative hypothesis?
+	--what stat test could we use? why?/how?
+	--data needed?
